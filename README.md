@@ -1,16 +1,13 @@
-# Android Barcode Keyboard
+Android Barcode Keyboard – Chemvet
+This Android application provides a barcode scanning keyboard designed for use in Chemvet factory operations.
 
-This Android app registers an input method that you can use like any other Android keyboard.
-However, instead of keys it shows a camera window. Whenever a barcode (1D codes, QR, DataMatrix, …)
-is inside the camera view, the barcode content will be inserted into the current text fields.
+The app uses the rear (back) camera to scan barcodes (QR, DataMatrix, etc.) and automatically inserts the scanned data into input fields.
 
-Similar apps already exist, but show lots of ads, require in-app purchases to remove ads, and
-have the risk of leaking your data. This app is free and open source and does not even request
-permission to connect to the internet from the operating system. You can therefore fully trust
-this app not to send your QR code data somewhere.
+After each successful scan, an Enter key action is triggered automatically, enabling faster workflow without manual input.
 
-## License
+This version has been customized for internal use at Chemvet.
 
-Copyright 2020 Raphael Michel. Apache License 2.0.
+Developed and customized by Reema Al-Nobani.
 
-Based on dm77/barcodescanner-view and ZXing by Google (both Apache License 2.0).
+License
+This application is based on open-source libraries including ZXing by Google.
