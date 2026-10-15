@@ -2,5 +2,5 @@
     <string name="app_name">Chemvet QR Keybord</string>
     <string name="all_barcodes">All barcodes</string>
     <string name="grant_perm">Allow camera use</string>
-    <string name="settings_text">Chemvet Barcode Keyboard\n\nUse the rear camera to scan barcodes and automatically insert the scanned value with Enter.\n\nCustomized for Chemvet factory internal use.\n\nDeveloped and customized by Reema Al-Nobani.\n\nBased on open-source barcode scanning libraries including ZXing.</string>
+    <string name="settings_text">Chemvet QR Keybord\n\nUse the rear camera to scan barcodes and automatically insert the scanned value with Enter.\n\nCustomized for Chemvet factory internal use.\n\nDeveloped and customized by Reema Al-Nobani.\n\nBased on open-source barcode scanning libraries including ZXing.</string>
 </resources>
